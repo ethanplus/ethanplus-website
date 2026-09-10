@@ -10,7 +10,7 @@ html {
 		cursor: url("../images/cursors/regular.png"), auto !important;
 }
 body {
-	background-image: url("../images/backgrounds/pexels-kai-pilger-1341279 (1).jpg");
+	background-color: white;
 	font-family: Times New Roman;
 
 
@@ -31,10 +31,7 @@ body {
 }
 }
 
-h2 {
-	font-family: Times New Roman;
-	
-}
+
 
 .boxline {
 		font-family: Rubik Spray Paint;
@@ -86,14 +83,27 @@ color:#e4ff01;
   color: hotpink;
 }
 
-p {
+.construction {
 	font-family: Times New Roman;
-	color:white;
-	font-size: 20px;
+	color:black;
+	font-size: 30px;
 }
 
 .footerLink {
 	color:hotpink;
+}
+
+h1 {
+	font-family: Times New Roman;
+	font-weight: bold;
+	color:black;
+	font-size: 30px;
+}
+
+h2 {
+	font-family: Times New Roman;
+	color:black;
+	font-size: 20px;
 }
 
 .container {
